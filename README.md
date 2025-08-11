@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ARP Spoofing Detector + Mitigation (Windows)
 
 ![Network Security](https://img.shields.io/badge/Network-Security-blue)
@@ -105,18 +104,6 @@ pip install pystray pillow pyttsx3 psutil
 - Run the tool as Administrator.
 - Check `arp_spoof_log.txt` for detailed logs.
 - Verify audio and popup permissions for alerts.
-
----
-
-## 📄 License
-
-Provided as-is without warranty. Use at your own risk.
-
----
-
-## 📞 Contact
-
-For support or feature requests, please contact the developer.
 
 ---
 
